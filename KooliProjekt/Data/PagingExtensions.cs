@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
-namespace namespace KooliProjekt.Data
+namespace  KooliProjekt.Data
 {
     public static class PagingExtensions
     {
